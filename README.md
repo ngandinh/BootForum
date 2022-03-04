@@ -17,3 +17,9 @@ Chi Nguyen & Ngan Dinh
 BootForum team
 
 bootforum.su@gmail.com
+
+### [**BootForum Project Github Link**](https://github.com/chipolaris/BootForum)
+
+###  [**View BootForum Screenshots**](https://github.com/chipolaris/BootForum/blob/master/Screenshots.md "Screenshots")
+
+### [**Live Demo**](http://softunify.com:8080/BootForum "BootForum Demo")
